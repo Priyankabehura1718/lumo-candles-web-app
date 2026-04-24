@@ -1,4 +1,4 @@
-# 🕯️ Lumo Candles — Shopify Homepage Build
+# Lumo Candles — Shopify Homepage Build
 
 A premium, minimal Shopify-inspired homepage for **Lumo Candles** — handmade scented candles brand.
 
